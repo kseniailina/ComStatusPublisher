@@ -7,4 +7,5 @@ build
 no build master
 pull request build
 pull request no-build
+master with build
 pull request with build
