@@ -6,3 +6,4 @@ no build with pull request
 build
 no build master
 pull request build
+pull request no-build
